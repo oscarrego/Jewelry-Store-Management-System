@@ -1,0 +1,78 @@
+ <!-- footer section starts -->
+        <footer class="footer_widgets footer_black">
+            <div class="container">
+                <div class="footer_top">
+                    <div class="row">
+
+                        <div class="col-lg-2 col-md-6 col-sm-5 col-6">
+                            <div class="widgets_container widget_menu">
+                                <h3>My Account</h3>
+                                <div class="footer_menu">
+                                    <ul>
+                                        <li><a href="#">Customer Service  </a></li>
+                                        <li><a href="#">Orders & Shipping</a></li>
+                                        <li><a href="#">Returns & Exchanges</a></li>
+                                        <li><a href="#">Care & Repair</a></li>
+                                        <li><a href="#">Loyalty Program</a></li>
+                                        <li><a href="#">Packaging & Gift Wrapping</a></li>
+                                        <li><a href="#">How to wear jewelry  </a></li>
+                                        <li><a href="#">Size Guide  </a></li>
+                                        <li><a href="#">Gift Card  </a></li>
+                                        <li><a href="faq.html">FAQ  </a></li>
+                                        <li><a href="contact.html">Contact Us  </a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+                   
+                        <div class="col-lg-2 col-md-6 col-sm-4 col-6">
+                            <div class="widgets_container widget_menu">
+                                <h3>About Us</h3>
+                                <div class="footer_menu">
+                                    <ul>
+                                        <li><a href="#">Brand Story</a></li>
+                                        <li><a href="#">Stores</a></li>
+                                        <li><a href="#">Sustainability</a></li>
+                                        <li><a href="#">Terms of Services</a></li>
+                                    
+                                        <li><a href="#">Privacy Policy</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                   
+
+                        
+                        <div class="col-lg-20 col-md-20 col-sm-8">
+                            <div class="widgets_container contact_us">
+                                
+                                <h3>Follow Us</h3>
+                                <div class="footer_contact">
+                                    <ul>
+                                        <li><a href="https://www.facebook.com/"><i class="ion-social-facebook"></i></a></li>
+                                        <li><a href="https://twitter.com/login"><i class="ion-social-twitter"></i></a></li>
+                                        <li><a href="https://www.instagram.com/accounts/login/?hl=en"><i class="ion-social-instagram"></i></a></li>
+                                        <li><a href="https://www.youtube.com/"><i class="ion-social-youtube"></i></a></li>
+                                        <li><a href="https://in.pinterest.com/"><i class="ion-social-pinterest"></i></a></li>
+                                        
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        
+                        <div class="footer_bottom">
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="copyright_area">
+                                        <p>Copyright &copy; 2020 <a href="#">ashirwaad</a> All rights Reserved.</p>
+                                        <img src="images/icon/papyel2.png" alt="">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+        </footer>
+        <!-- footer section ends -->
